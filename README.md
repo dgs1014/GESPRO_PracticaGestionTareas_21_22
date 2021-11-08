@@ -4,3 +4,4 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Diego González San Emeterio
 Miguel Fuente García
+Gabriel Hernández Vallejo
